@@ -5,10 +5,7 @@ export default function App() {
     <div className="App">
       <h2>Start editing to see some magic happen!</h2>kasdkj
       <h2>Start editing to see some magic happen!</h2>sjhrjewkjsfksjkjts
-<<<<<<< Codesandbox
-    </div><div></div>mnnnj<div></div>
-=======
-    </div><>mnnnj
+<<<<<<< Codessdfsfsdfsfsf
 >>>>>>> GitHub
     <div></div>
   );
